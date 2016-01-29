@@ -1,0 +1,28 @@
+name: Tuckertalks
+favicon: null
+layout_spectrum: 0.5602264211047441
+typography_spectrum: 0.9434903836809099
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.392645962536335
+  lightness: 0.9584371875971556
+  saturation: 0.5932983665261418
+  rhythmicContrast: 0.49626655294559896
+purpose: []
